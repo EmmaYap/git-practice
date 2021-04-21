@@ -5,5 +5,6 @@ function sum(x, y) {
 
 // https://www.geeksforgeeks.org/subtract-two-numbers-without-using-arithmetic-operators/
 function minus(x, y) {
+<<<<<<< HEAD
     return sum(x, -y);
 }
